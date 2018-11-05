@@ -1,5 +1,6 @@
 #过滤node_modules根目录下的文件（不过滤其他目录下的dist文件夹）
 /node_modules
+/.idea
 
 #过滤所有mtk文件夹
 #mtk/ 
