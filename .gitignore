@@ -1,12 +1,12 @@
-#¹ýÂËnode_modules¸ùÄ¿Â¼ÏÂµÄÎÄ¼þ£¨²»¹ýÂËÆäËûÄ¿Â¼ÏÂµÄdistÎÄ¼þ¼Ð£©
+ï»¿#è¿‡æ»¤node_modulesæ ¹ç›®å½•ä¸‹çš„æ–‡ä»¶ï¼ˆä¸è¿‡æ»¤å…¶ä»–ç›®å½•ä¸‹çš„distæ–‡ä»¶å¤¹ï¼‰
 /node_modules
 /.idea
 
-#¹ýÂËËùÓÐmtkÎÄ¼þ¼Ð
+#è¿‡æ»¤æ‰€æœ‰mtkæ–‡ä»¶å¤¹
 #mtk/ 
 
-#¹ýÂËËùÓÐ.zipÎÄ¼þ
+#è¿‡æ»¤æ‰€æœ‰.zipæ–‡ä»¶
 #*.zip 
 
-#¹ýÂËÄ³¸ö¾ßÌåÎÄ¼þ
+#è¿‡æ»¤æŸä¸ªå…·ä½“æ–‡ä»¶
 #/mtk/do.c 
