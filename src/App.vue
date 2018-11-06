@@ -8,6 +8,7 @@
     <br/>
     <div class="youyouhuzhu" @click="events">游友互助</div>
     <div class="yiqiyou">一起游</div>
+    <br/>
     <input type="text" @keyup="events($event)">
   </div>
 </template>
@@ -17,7 +18,7 @@
     name: 'app',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js Appaa',
+        msg: '选择你想进入的版块',
         isShow: true
       }
     },
